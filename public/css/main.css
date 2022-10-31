@@ -1,0 +1,7 @@
+main{
+    display: flex;
+    background-color: gainsboro;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 8rem;
+}

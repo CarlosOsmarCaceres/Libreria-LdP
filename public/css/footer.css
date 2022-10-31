@@ -1,0 +1,7 @@
+footer{
+    background-color: blueviolet;
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 8rem;
+}
